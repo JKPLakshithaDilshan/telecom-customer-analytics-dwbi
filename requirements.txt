@@ -1,0 +1,11 @@
+# Core data processing
+pandas==3.0.5
+numpy==2.5.3
+openpyxl==3.1.5
+
+# Data visualisation
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Notebook environment
+jupyterlab==4.6.3
