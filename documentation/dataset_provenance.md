@@ -10,11 +10,11 @@ The five-source version was selected instead of the combined workbook because it
 
 ## Original Source
 
-**Dataset:** IBM Telco Customer Churn Sample  
-**Provider:** IBM Cognos Analytics  
-**Business domain:** Telecommunications  
-**Geographical coverage:** California, United States  
-**Reporting period:** Q3 customer snapshot  
+**Dataset:** IBM Telco Customer Churn Sample
+**Provider:** IBM Cognos Analytics
+**Business domain:** Telecommunications
+**Geographical coverage:** California, United States
+**Reporting period:** Q3 customer snapshot
 **Access date:** 16 September 2026
 
 Official dataset description:
